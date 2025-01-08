@@ -1,0 +1,19 @@
+{
+  "name": "python_with_nodejs_development",
+  "version": "1.0.0",
+  "description": "Backend development involves creating the server-side logic that powers web applications. Python, Node.js, Express.js, and MongoDB are popular technologies used for backend development.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.3"
+  }
+}
